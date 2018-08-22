@@ -7,7 +7,8 @@ See pictures folder.
 
 # Install
 
-- sudo pip install pyscard pcsc-tools pcscd
+- sudo pip install pyscard numpy 
+- install packages pcsc-tools pcscd
 - edit /usr/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Info.plist:
 
 <pre>
