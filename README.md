@@ -7,7 +7,7 @@ See pictures folder.
 
 # Install
 
-- sudo pip install pyscard
+- sudo pip install pyscard pcsc-tools pcscd
 - edit /usr/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Info.plist:
 
 <pre>
